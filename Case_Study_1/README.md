@@ -1,4 +1,4 @@
-# CASE STUDY REPORT (LOW-LEVEL)
+# CASE STUDY REPORT (SIMPLE)
 
 ## AUTOMATED IRRIGATION SYSTEM
 
@@ -9,13 +9,15 @@
 ### REQUIREMENTS
 * HIGH LEVEL REQUIREMENT
 
-   1. Display unit to show humidity level of soil.
+   1. Continous checking for the humidity level of soil.
    2. Soil Sensor for the real-time humidity check for the soil.
    
 * LOW LEVEL REQUIREMENT
   
-  1.  Seven Segment Display.
-  2.  Appropriate Relays, motor driver and water pump for water supply.
+  1.  Seven Segment Display, to continous display the humidity level of the soil.
+  2.  Soil Sensor for the real-time humidity check of the soil.
+  3.  Appropriate Relays, motor driver and water pump for water supply.
+  
  
 
 
