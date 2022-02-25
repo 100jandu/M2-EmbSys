@@ -12,7 +12,7 @@
     3.  Sensors Used in the project
     4.  Actuators used in the project
     5.  GPIOs required
-    6.  Microcontroller Required
+    6.  Microcontroller used
 ---
 3.  Block Diagram and Flow Chart
     1.  High Level Block Diagram 
