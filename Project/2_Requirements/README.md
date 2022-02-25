@@ -41,5 +41,7 @@
 ## Microcontroller used
 
 * ### Arduino UNO Board
- * Arduino UNO board is used for all the computing process, which uses ATMEGA 328 microcontroller(uc). It is a 16 Pin microcontroller with inbuilt Aanalog to digital conversion capability. It controlls the 16x2 LCD display and operates the water pump as per the signal received from the soil sensor.
+  * Arduino UNO board is used for all the computing process, which uses ATMEGA 328 microcontroller(uc). It is a 16 Pin microcontroller with inbuilt Aanalog to digital conversion capability. It controlls the 16x2 LCD display and operates the water pump as per the signal received from the soil sensor.
+
+---
 
