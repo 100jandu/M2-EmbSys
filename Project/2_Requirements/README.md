@@ -16,3 +16,24 @@
 | LLR1 | Soil sensor and DHT11 sensor is required to study the property of the given soil .| HLR1 |
 | LLR2 | Motor Drivers and relays are required to start and stop the water pump. | HLR2 |
 | LLR3 | 12V battery to provide sufficient power supply. | HLR3 |
+
+---
+
+## Sensor used
+
+* ### Soil Sensor
+  * It is an analog sensor used to detect humidity of the soil.
+  
+---
+
+## Actuator used
+
+* ### Motor
+  * To operate a DC Water Pump Relays and Motor and motor drivers are used.
+ 
+---
+## GPIO used
+
+* ### !6x2 LCD display
+  * A 16x2 LCD display (Hd44780-9) is used to display continue the reading from the soil sensor.
+
