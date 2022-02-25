@@ -29,13 +29,13 @@
 ## Actuator used
 
 * ### Motor
-  * To operate a DC Water Pump Relays and Motor and motor drivers are used.
+  * To operate a DC Water Pump, relays and motor drivers are used.
  
 ---
 ## GPIO used
 
 * ### 16x2 LCD display
-  * A 16x2 LCD display (Hd44780-9) is used to display continue the reading from the soil sensor.
+  * A 16x2 LCD display (Hd44780-9) is used to display the continue reading from the soil sensor.
 
 ---
 ## Microcontroller used
