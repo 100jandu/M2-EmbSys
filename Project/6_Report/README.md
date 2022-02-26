@@ -88,7 +88,7 @@
     
 
     
-    * Low Level Block Diagram
+  * Low Level Block Diagram
     ![Low Level Irrigation](https://user-images.githubusercontent.com/98866279/155824133-0ed2be02-43d9-4cf7-9caf-926f06213bd3.jpg)
 
  ---
@@ -98,6 +98,23 @@
 
  ---
 
+# Future Scope for Improvement
 
+  #### The system is not connected with the internet and hence it has lot of drawbacks.
     
+        1. If it is connected with the internet, error handling can be done remotely.
+        2. If it is connected with the internet, it can save more water by just monitoring weather report of every next 24 hours. 
+    
+---
 
+# Application and Usage
+
+  ####  This system can be installed in:
+       
+        1. Farm Lands
+        2. Nurseries
+        3. Green Houses
+        4. For terrace farming
+        
+---     
+ 
