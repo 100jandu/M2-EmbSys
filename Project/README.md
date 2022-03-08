@@ -22,7 +22,7 @@
 4.  Implementation
     1. .hex File
     2. .ino File
-    3. .simul File
+    3. .simu File
 ---    
 5.  Test Plan and output
     1. High Level Test Plan/ Integerated Test Plan
