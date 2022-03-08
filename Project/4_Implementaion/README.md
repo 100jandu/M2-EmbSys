@@ -1,1 +1,2 @@
-### Instructions to run the program will be updated here.
+##### The .hex, .ino and .simu files has been uploaded succesfully.
+##### Respective images and videos of the simulation is uploaded into Images and Video Section.
