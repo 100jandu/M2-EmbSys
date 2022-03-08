@@ -17,8 +17,7 @@
 3.  Block Diagram and Flow Chart
     1.  High Level Block Diagram 
     2.  Low Level Block Diagram
-    3.  High Level Flow Chart 
-    4.  Low Level Flow Chart
+    3.  Flow Chart 
 ---       
 4.  Implementation
     1. .hex File
@@ -29,7 +28,13 @@
     1. High Level Test Plan/ Integerated Test Plan
     2. Low Level Test Plan/ Unit Test Plan
 ---
-6. Application and Future Scope for improvement  
+6. Application and Future Scope for improvement 
     1.  Application
-    2.  Scope for improvement  
-
+    2.  Scope for improvement   
+---
+7. Images and Videos  
+    1.  High Level Block Diagram 
+    2.  Low Level Block Diagram
+    3.  Flow Chart
+    4.  Simulide Implementation Video
+---
